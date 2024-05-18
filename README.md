@@ -17,7 +17,7 @@ choco install make
 
 ## Arquivo: makefile
 
-Editar o nome do projeto na linha 1:
+Editar o nome do projeto na linha 1 do arquivo makefile
 ``` makefile
 PROJECT=nome_do_projeto
 ```
