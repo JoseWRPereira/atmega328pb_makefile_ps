@@ -1,4 +1,5 @@
-PROJECT=atmega328pb_hal
+PROJECT=nome_do_projeto
+
 DEVICE=ATmega328PB
 CC_PATH="C:\Program Files\Microchip\xc8\v2.45\bin"
 CC="$(CC_PATH)\xc8-cc.exe"
